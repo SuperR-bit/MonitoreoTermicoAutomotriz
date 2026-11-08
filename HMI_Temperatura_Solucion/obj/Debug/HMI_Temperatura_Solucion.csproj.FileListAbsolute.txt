@@ -1,0 +1,10 @@
+C:\Users\sanju\OneDrive\Escritorio\Nueva carpeta\Escuela\Programación avanzada\Proyecto\HMI_Temperatura_Solucion\bin\Debug\HMI_Temperatura_Solucion.exe.config
+C:\Users\sanju\OneDrive\Escritorio\Nueva carpeta\Escuela\Programación avanzada\Proyecto\HMI_Temperatura_Solucion\bin\Debug\HMI_Temperatura_Solucion.exe
+C:\Users\sanju\OneDrive\Escritorio\Nueva carpeta\Escuela\Programación avanzada\Proyecto\HMI_Temperatura_Solucion\bin\Debug\HMI_Temperatura_Solucion.pdb
+C:\Users\sanju\OneDrive\Escritorio\Nueva carpeta\Escuela\Programación avanzada\Proyecto\HMI_Temperatura_Solucion\obj\Debug\HMI_Temperatura_Solucion.csproj.AssemblyReference.cache
+C:\Users\sanju\OneDrive\Escritorio\Nueva carpeta\Escuela\Programación avanzada\Proyecto\HMI_Temperatura_Solucion\obj\Debug\HMI_Temperatura_Solucion.Form1.resources
+C:\Users\sanju\OneDrive\Escritorio\Nueva carpeta\Escuela\Programación avanzada\Proyecto\HMI_Temperatura_Solucion\obj\Debug\HMI_Temperatura_Solucion.Properties.Resources.resources
+C:\Users\sanju\OneDrive\Escritorio\Nueva carpeta\Escuela\Programación avanzada\Proyecto\HMI_Temperatura_Solucion\obj\Debug\HMI_Temperatura_Solucion.csproj.GenerateResource.cache
+C:\Users\sanju\OneDrive\Escritorio\Nueva carpeta\Escuela\Programación avanzada\Proyecto\HMI_Temperatura_Solucion\obj\Debug\HMI_Temperatura_Solucion.csproj.CoreCompileInputs.cache
+C:\Users\sanju\OneDrive\Escritorio\Nueva carpeta\Escuela\Programación avanzada\Proyecto\HMI_Temperatura_Solucion\obj\Debug\HMI_Temperatura_Solucion.exe
+C:\Users\sanju\OneDrive\Escritorio\Nueva carpeta\Escuela\Programación avanzada\Proyecto\HMI_Temperatura_Solucion\obj\Debug\HMI_Temperatura_Solucion.pdb
